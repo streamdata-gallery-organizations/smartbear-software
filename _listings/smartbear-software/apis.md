@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smart
 x-kinRank: "9"
 x-alexaRank: "35193"
 tags: SmartBear Software
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/smartbear-software/master/_listings/smartbear-software/apis.md
 specificationVersion: "0.14"
 apis:
