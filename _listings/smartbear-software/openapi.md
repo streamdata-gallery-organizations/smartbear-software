@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: SmartBear Software
 x-complete: 1
@@ -328,4 +327,3 @@ paths:
           description: sf_external_accept_allow
       tags:
       - Executions
----

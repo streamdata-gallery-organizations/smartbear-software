@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - SmartBear Software",
+	"description": "This is a repository of smartbear software APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/smartbear-software.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://smartbear-software.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "SmartBear Software",
+			"x-api-slug": "smartbear-software",
+			"description": "Testing and Development teams around the world use SmartBears automation, development and monitoring tools to build better software and applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1157-smartbear-software.jpg",
+			"humanURL": "http://smartbear.com/",
+			"baseURL": "://testserver.readyapi.io:8080//v1",
+			"tags": "SmartBear Software",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/smartbear-software/master/_listings/smartbear-software/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "SmartBear Software",
+	"include": [
+		{
+			"name": "SmartBear Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/smartbear-software/master/_listings/smartbear-software/apis.yaml"
+		}
+	]
+}
